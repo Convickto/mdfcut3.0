@@ -1,0 +1,5 @@
+{
+  "name": "Nesting Optimization Planner",
+  "description": "A web application for simulating and planning sheet cutting, optimizing material usage and managing remnants.",
+  "requestFramePermissions": []
+}
